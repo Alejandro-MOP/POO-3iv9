@@ -9,6 +9,6 @@ class EntradaDatos{
         //leer
         //entrada estandar de la computadora
         nombre = System.console().readLine();
-        System.out.println("Biendenivo : "+nombre+" a programacion");
+        System.out.println("Bienvenido : "+nombre+" a programacion");
     }
 }
